@@ -1,0 +1,19 @@
+{
+    "name": "ruangdeveloper/belajar-publish-project",
+    "description": "Tutorial membuat dan mempublish composer project",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ruangdeveloper\\BelajarPublishProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ruangdeveloper",
+            "email": "info@ruangdeveloper.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
